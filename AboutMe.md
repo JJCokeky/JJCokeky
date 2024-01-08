@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @John
+- 👀 I’m interested in learning new things 
+- 🌱 I’m currently learning web dev and hardware
+- 💞️ I’m looking to collaborate on Unknown
+- 📫 How to reach me through email
